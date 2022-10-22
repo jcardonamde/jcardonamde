@@ -1,4 +1,4 @@
-<h1 align="center">Hi Everyone!👋 I'm Jonathan Cardona</h1>
+<h1 align="left">Hi Everyone!👋 I'm Jonathan Cardona</h1>
 <h3 align="left">I'm Specialist in IT project management and a passionate Jr. Full Stack developer in Python from Colombia. On my way to becoming a Data Scientist.</h3>
 
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **info@jonathancardona.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jonathan-cardona-calderon-co/](https://www.linkedin.com/in/jonathan-cardona-calderon-co/)
+- 📄 Know about my experiences, let's connect on [LinkedIn](https://www.linkedin.com/in/jonathan-cardona-calderon-co/)
 
 - ⚡ Fun fact: **I love reading about the universe, write poetry, sharing with friends and playing sports**
 
