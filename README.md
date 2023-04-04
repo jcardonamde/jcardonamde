@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a **Monitoring Analyst**
 
-- 🌱 I’m currently learning **Angular, React**
+- 🌱 I’m currently learning **Angular, React, Rust**
 
 - 👯 I’m looking to collaborate on [Swappers](https://github.com/jcardonamde/swappers)
 
