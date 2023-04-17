@@ -21,11 +21,8 @@
 
 <br/>  
 
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -79,8 +76,7 @@
 
 <br/>  
 
-<hr>
-
+## Github Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcardonamde&show_icons=true&locale=en&layout=compact" alt="jcardonamde" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jcardonamde&show_icons=true&locale=en" alt="jcardonamde" /></p>
 
