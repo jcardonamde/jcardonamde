@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working as a **Monitoring Analyst**
+- 🔭 I’m currently working as a **Frontend Developer**
 
 - 🌱 I’m currently learning **React, Rust**
 
