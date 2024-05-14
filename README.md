@@ -1,5 +1,5 @@
 <h1 align="left">Hi Everyone!👋 I'm Jonathan Cardona</h1>
-<h3 align="left">I'm Specialist in IT project management and a passionate Jr. Full Stack developer in Python and Data Scientist from Colombia.</h3>
+<h3 align="left">I'm Specialist in IT project management and a passionate Software Developer in Python and Data Scientist from Colombia.</h3>
 
 
 
