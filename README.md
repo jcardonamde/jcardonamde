@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working as a **Frontend Developer**
 
-- 🌱 I’m currently learning **Rust, NextJS**
+- 🌱 I’m currently learning **Swift, Flutter, NextJS**
 
-- 👯 I’m looking to collaborate on [Swappers](https://github.com/jcardonamde/swappers)
+- 🤝 I'm looking to collaborate in open source projects
 
 - :sweat_smile: I'm full stack but I love the frontend
 
