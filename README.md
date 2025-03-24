@@ -11,13 +11,15 @@
 
 - :sweat_smile: I'm full stack but I love the frontend
 
-- :video_camera: Recently created my [YouTube channel](https://www.youtube.com/channel/UCTpyIegZckVqCfPhYSNTsOQ) (in Spanish) called Sabini Souls
-
 - 📫 How to reach me **info@jonathancardona.com**
 
 - 📄 Know about my experiences, let's connect on [LinkedIn](https://www.linkedin.com/in/jonathan-cardona-calderon-co/)
 
-- ⚡ Fun fact: **I love reading about the universe, write poetry, sharing with friends and playing sports**
+- :video_camera: Recently created my [YouTube channel](https://www.youtube.com/channel/UCTpyIegZckVqCfPhYSNTsOQ) (in Spanish) called Sabini Souls
+
+- ⚡ Fun fact: I love reading about the universe, write poetry, sharing with friends and playing sports
+
+- 🚀 Always open to new opportunities and collaborations! **Let's connect and build something amazing together!**
 
 <br/>  
 
