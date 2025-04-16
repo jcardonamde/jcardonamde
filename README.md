@@ -9,8 +9,6 @@
 
 - 🤝 I'm looking to collaborate in open source projects
 
-- :sweat_smile: I'm full stack but I love the frontend
-
 - 📫 How to reach me **info@jonathancardona.com**
 
 - 📄 Know about my experiences, let's connect on [LinkedIn](https://www.linkedin.com/in/jonathan-cardona-calderon-co/)
