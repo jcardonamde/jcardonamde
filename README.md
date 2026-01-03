@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working as a **Frontend technical leader**
+- 🔭 I’m currently working as a **Engineering & IT Manager**
 
 - 🌱 I’m currently learning **Flutter, NextJS, Swift**
 
