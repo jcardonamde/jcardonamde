@@ -5,19 +5,28 @@
 
 - 🔭 I’m currently working as a **Engineering & IT Manager**
 
-- 🌱 I’m currently learning **Flutter, NextJS, Swift**
+- 🌱 I’m currently learning **LangChain, IA Tools, Flutter**
 
 - 🤝 I'm looking to collaborate in open source projects
 
 - 📫 How to reach me **info@jonathancardona.com**
 
-- 📄 Know about my experiences, let's connect on [LinkedIn](https://www.linkedin.com/in/jonathan-cardona-calderon-co/)
-
-- :video_camera: Recently created my [YouTube channel](https://www.youtube.com/channel/UCTpyIegZckVqCfPhYSNTsOQ) (in Spanish) called Sabini Souls
-
 - ⚡ Fun fact: I love reading about the universe, write poetry, sharing with friends and playing sports
 
 - 🚀 Always open to new opportunities and collaborations! **Let's connect and build something amazing together!**
+
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/jonathan-cardona-calderon-co/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UCTpyIegZckVqCfPhYSNTsOQ" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=Youtube&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+</div>
+
+
+
 
 <br/>  
 
@@ -95,8 +104,11 @@
 <br/>  
 
 ## Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jcardonamde&show_icons=true&locale=en&layout=compact" alt="jcardonamde" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jcardonamde&show_icons=true&locale=en" alt="jcardonamde" /></p>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jcardonamde&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+</div>
 
 
 <br/>  
